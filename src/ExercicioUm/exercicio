@@ -1,0 +1,22 @@
+a- As vaiaveis são:
+static int cor
+public static String Nome=ExercicioUm.Azul
+
+b- o contrutor é: public static String NOME = "ExercicioUm.Azul";
+
+c- Os métodos são:
+public ExercicioUm.Azul(int tonalidade)
+public int getTonalidade()
+public void setTonalidade(int tonalidade)
+public void tornarMaisEscuro()
+private void TornarTonalidadeMaisEscura(int valor)
+
+d- Para implementar o método setTonalidade, foi preciso criar a variavel "private int tonalidade"
+
+e- Resposta comentada no codigo
+
+f- O codigo acima não roda na linguagem Java, pois "var" não é reconhecido.
+Para fazer esse codigo rodar, precisaria mudar "var" para "Blue color = new Blue(), assim acredito que funcionaria.
+
+g- Resposta no codigo
+
